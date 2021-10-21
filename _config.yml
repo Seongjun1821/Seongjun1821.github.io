@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Jun"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**어플리케이션** 개발을 공부합니다."
+  location         : "Korea,Daejeon"
   email            :
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
+    - label: "jun._.e"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jun._.e/"
 
