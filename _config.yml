@@ -111,7 +111,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sjkimc97@gmail.com"
-    - label: "GitHub"
+    - label: "juun97"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/juun97"
     - label: "jun._.e"
@@ -121,7 +121,7 @@ author:
 # Site Footer
 footer:
   links:   
-    - label: "GitHub"
+    - label: "juun97"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/juun97"
     - label: "jun._.e"
